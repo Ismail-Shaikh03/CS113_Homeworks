@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS_113_HW/CS_113_HW.iml" filepath="$PROJECT_DIR$/CS_113_HW/CS_113_HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final practice/Final practice.iml" filepath="$PROJECT_DIR$/Final practice/Final practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_1/Hw_1.iml" filepath="$PROJECT_DIR$/Hw_1/Hw_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_2/Hw_2.iml" filepath="$PROJECT_DIR$/Hw_2/Hw_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_3/Hw_3.iml" filepath="$PROJECT_DIR$/Hw_3/Hw_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_4/Hw_4.iml" filepath="$PROJECT_DIR$/Hw_4/Hw_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_5/Hw_5.iml" filepath="$PROJECT_DIR$/Hw_5/Hw_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_6/Hw_6.iml" filepath="$PROJECT_DIR$/Hw_6/Hw_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_7/Hw_7.iml" filepath="$PROJECT_DIR$/Hw_7/Hw_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_8/Hw_8.iml" filepath="$PROJECT_DIR$/Hw_8/Hw_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw_9/Hw_9.iml" filepath="$PROJECT_DIR$/Hw_9/Hw_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Name/Name.iml" filepath="$PROJECT_DIR$/Name/Name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+    </modules>
+  </component>
+</project>
